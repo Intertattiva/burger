@@ -1,0 +1,15 @@
+{
+  "name": "burger",
+  "homepage": "https://github.com/Intertattiva/burger",
+  "authors": [
+    "codev0 <dakanca@gmail.com>"
+  ],
+  "description": "burger frontend framework",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "CSS",
+    "Framework"
+  ],
+  "license": "MIT"
+}
